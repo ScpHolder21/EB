@@ -1,3 +1,4 @@
+print("04Studio")
 --Obfuscated by 04ProtectLua 
 --Test Model
 
